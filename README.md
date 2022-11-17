@@ -1,8 +1,10 @@
 # Vertigo-CLEAN
 Clean version of Vertigo
+
 This was made in C# Winforms using Visual Studio 2019
 
 Q&A:
+
 
 
 Q: Will the destructive version of Vertigo ever be released?
